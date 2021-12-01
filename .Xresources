@@ -1,0 +1,8 @@
+XTerm.termName: xterm-256color
+
+xterm*faceName: spleen:pixelsize=16:antialias=false
+XTerm.vt100.saveLines: 4096
+
+XTerm.vt100.reverseVideo: true
+
+XTerm*selectToClipboard: true
